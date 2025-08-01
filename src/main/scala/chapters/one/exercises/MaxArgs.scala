@@ -1,7 +1,7 @@
-package chapterOne.exercises
+package chapters.one.exercises
 
-import chapterOne.StraightLineProgram
-import chapterOne.StraightLineProgram.{Exp, ExpList, Stm}
+import chapters.one.StraightLineProgram.{Exp, ExpList, Stm}
+import chapters.one.StraightLineProgram
 
 import scala.annotation.tailrec
 

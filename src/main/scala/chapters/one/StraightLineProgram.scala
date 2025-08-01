@@ -1,7 +1,7 @@
-package chapterOne
+package chapters.one
 
-import chapterOne.StraightLineProgram.Binop.*
-import chapterOne.exercises.MaxArgs
+import chapters.one.StraightLineProgram.Binop.*
+import chapters.one.exercises.MaxArgs
 
 object StraightLineProgram extends App {
 
