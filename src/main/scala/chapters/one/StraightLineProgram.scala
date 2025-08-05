@@ -1,7 +1,6 @@
 package chapters.one
 
 import chapters.one.StraightLineProgram.Binop.*
-import chapters.one.exercises.MaxArgs
 
 object StraightLineProgram extends App {
 
@@ -43,7 +42,4 @@ object StraightLineProgram extends App {
         )
       )
     )
-
-  println(MaxArgs.maxArgs(program))
-
 }
